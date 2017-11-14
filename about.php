@@ -12,6 +12,7 @@
 
 <!-- Bootstrap core CSS -->
 <!-- <link href="./movie_files/bootstrap.min.css" rel="stylesheet"> -->
+<link href="css/bootstrap.css" rel="stylesheet">
 <link href="https://bootswatch.com/flatly/bootstrap.css" rel="stylesheet">
 <link href="http://netdna.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
@@ -77,7 +78,7 @@
     <div class="container">
       <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>© 2017 Developed by Amlan Biswas</p>
+       
       </footer>
     </div>
 
